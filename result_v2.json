@@ -1,0 +1,2428 @@
+{
+  "user": "zxzinn",
+  "totals": {
+    "added": 1907173,
+    "deleted": 380288,
+    "net": 1526885,
+    "commits": 3896,
+    "repos_contributed": 67
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "add": 476689,
+      "del": 81961
+    },
+    "TypeScript": {
+      "add": 397216,
+      "del": 87743
+    },
+    "JSON": {
+      "add": 213492,
+      "del": 45605
+    },
+    "Markdown": {
+      "add": 93801,
+      "del": 11122
+    },
+    "Python": {
+      "add": 73162,
+      "del": 28869
+    },
+    "Vue": {
+      "add": 51189,
+      "del": 14897
+    },
+    "Java": {
+      "add": 29310,
+      "del": 15803
+    },
+    "YAML": {
+      "add": 34337,
+      "del": 6010
+    },
+    "JavaScript": {
+      "add": 29597,
+      "del": 1569
+    },
+    "GraphQL": {
+      "add": 14537,
+      "del": 0
+    },
+    "Rust": {
+      "add": 10717,
+      "del": 1771
+    },
+    "CSS": {
+      "add": 7840,
+      "del": 3687
+    },
+    "Shell": {
+      "add": 7893,
+      "del": 1570
+    },
+    "SQL": {
+      "add": 4388,
+      "del": 1362
+    },
+    "Terraform": {
+      "add": 3059,
+      "del": 1303
+    },
+    "Zig": {
+      "add": 1851,
+      "del": 1851
+    },
+    "Dockerfile": {
+      "add": 1946,
+      "del": 479
+    },
+    "C#": {
+      "add": 1932,
+      "del": 439
+    },
+    "Go": {
+      "add": 2293,
+      "del": 14
+    },
+    "MDX": {
+      "add": 1847,
+      "del": 186
+    },
+    "XML": {
+      "add": 1728,
+      "del": 266
+    },
+    "HTML": {
+      "add": 1675,
+      "del": 112
+    },
+    "Dart": {
+      "add": 1372,
+      "del": 201
+    },
+    "TOML": {
+      "add": 1171,
+      "del": 252
+    },
+    "Svelte": {
+      "add": 600,
+      "del": 64
+    },
+    "Protobuf": {
+      "add": 478,
+      "del": 0
+    },
+    "HCL": {
+      "add": 262,
+      "del": 65
+    },
+    "Swift": {
+      "add": 150,
+      "del": 0
+    }
+  },
+  "per_repo": [
+    {
+      "repo": "zxzinn/hai-dataset-analysis",
+      "private": false,
+      "fork": false,
+      "commits": 66,
+      "by_lang": {
+        "Jupyter Notebook": {
+          "add": 475677,
+          "del": 81959
+        },
+        "HTML": {
+          "add": 56,
+          "del": 0
+        },
+        "Python": {
+          "add": 8255,
+          "del": 6834
+        },
+        "Markdown": {
+          "add": 588,
+          "del": 463
+        }
+      },
+      "totals": {
+        "add": 484655,
+        "del": 89318,
+        "other_add": 79,
+        "other_del": 62
+      }
+    },
+    {
+      "repo": "zxzinn-dev/typescript-monorepo-boilerplate",
+      "private": true,
+      "fork": false,
+      "commits": 659,
+      "by_lang": {
+        "Markdown": {
+          "add": 13042,
+          "del": 3002
+        },
+        "JSON": {
+          "add": 106498,
+          "del": 40273
+        },
+        "TypeScript": {
+          "add": 125835,
+          "del": 14607
+        },
+        "CSS": {
+          "add": 1712,
+          "del": 880
+        },
+        "YAML": {
+          "add": 17343,
+          "del": 1141
+        },
+        "JavaScript": {
+          "add": 28757,
+          "del": 1347
+        },
+        "Shell": {
+          "add": 2889,
+          "del": 237
+        },
+        "Dockerfile": {
+          "add": 422,
+          "del": 59
+        },
+        "Terraform": {
+          "add": 1074,
+          "del": 57
+        },
+        "MDX": {
+          "add": 1447,
+          "del": 180
+        },
+        "SQL": {
+          "add": 2241,
+          "del": 1035
+        },
+        "TOML": {
+          "add": 47,
+          "del": 0
+        },
+        "HCL": {
+          "add": 67,
+          "del": 0
+        },
+        "HTML": {
+          "add": 26,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 402381,
+        "del": 74193,
+        "other_add": 100981,
+        "other_del": 9942
+      }
+    },
+    {
+      "repo": "zxzinn/efficient-healing",
+      "private": true,
+      "fork": false,
+      "commits": 547,
+      "by_lang": {
+        "Vue": {
+          "add": 33649,
+          "del": 7709
+        },
+        "TOML": {
+          "add": 106,
+          "del": 37
+        },
+        "YAML": {
+          "add": 1720,
+          "del": 760
+        },
+        "TypeScript": {
+          "add": 36546,
+          "del": 12558
+        },
+        "Python": {
+          "add": 3739,
+          "del": 3016
+        },
+        "SQL": {
+          "add": 638,
+          "del": 2
+        },
+        "JSON": {
+          "add": 52299,
+          "del": 271
+        },
+        "Dockerfile": {
+          "add": 274,
+          "del": 129
+        },
+        "Markdown": {
+          "add": 524,
+          "del": 68
+        },
+        "JavaScript": {
+          "add": 157,
+          "del": 14
+        },
+        "Java": {
+          "add": 101,
+          "del": 3
+        },
+        "XML": {
+          "add": 610,
+          "del": 0
+        },
+        "Swift": {
+          "add": 150,
+          "del": 0
+        },
+        "CSS": {
+          "add": 133,
+          "del": 9
+        }
+      },
+      "totals": {
+        "add": 182018,
+        "del": 37380,
+        "other_add": 51372,
+        "other_del": 12804
+      }
+    },
+    {
+      "repo": "zxzinn/pv-gallery",
+      "private": true,
+      "fork": false,
+      "commits": 341,
+      "by_lang": {
+        "JSON": {
+          "add": 29962,
+          "del": 3553
+        },
+        "TypeScript": {
+          "add": 22897,
+          "del": 9412
+        },
+        "Vue": {
+          "add": 17296,
+          "del": 7171
+        },
+        "Markdown": {
+          "add": 1006,
+          "del": 501
+        },
+        "YAML": {
+          "add": 1341,
+          "del": 340
+        },
+        "Shell": {
+          "add": 202,
+          "del": 61
+        },
+        "SQL": {
+          "add": 354,
+          "del": 58
+        },
+        "Python": {
+          "add": 5424,
+          "del": 3733
+        },
+        "TOML": {
+          "add": 85,
+          "del": 17
+        },
+        "Dockerfile": {
+          "add": 280,
+          "del": 71
+        },
+        "CSS": {
+          "add": 143,
+          "del": 2
+        },
+        "JavaScript": {
+          "add": 27,
+          "del": 2
+        }
+      },
+      "totals": {
+        "add": 107661,
+        "del": 35896,
+        "other_add": 28644,
+        "other_del": 10975
+      }
+    },
+    {
+      "repo": "zxzinn/darkpooled",
+      "private": true,
+      "fork": false,
+      "commits": 251,
+      "by_lang": {
+        "Python": {
+          "add": 32817,
+          "del": 10370
+        },
+        "TypeScript": {
+          "add": 18281,
+          "del": 3785
+        },
+        "YAML": {
+          "add": 1003,
+          "del": 55
+        },
+        "TOML": {
+          "add": 164,
+          "del": 48
+        },
+        "Markdown": {
+          "add": 988,
+          "del": 525
+        },
+        "MDX": {
+          "add": 400,
+          "del": 6
+        },
+        "Shell": {
+          "add": 108,
+          "del": 18
+        },
+        "JSON": {
+          "add": 195,
+          "del": 9
+        },
+        "CSS": {
+          "add": 304,
+          "del": 114
+        },
+        "Dockerfile": {
+          "add": 221,
+          "del": 25
+        },
+        "JavaScript": {
+          "add": 29,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 95311,
+        "del": 28086,
+        "other_add": 40801,
+        "other_del": 13131
+      }
+    },
+    {
+      "repo": "zxzinn/vercel-ai-sdk-practices",
+      "private": false,
+      "fork": false,
+      "commits": 395,
+      "by_lang": {
+        "JSON": {
+          "add": 497,
+          "del": 115
+        },
+        "TypeScript": {
+          "add": 59292,
+          "del": 14013
+        },
+        "YAML": {
+          "add": 436,
+          "del": 22
+        },
+        "Markdown": {
+          "add": 1812,
+          "del": 76
+        },
+        "SQL": {
+          "add": 152,
+          "del": 0
+        },
+        "CSS": {
+          "add": 244,
+          "del": 26
+        },
+        "JavaScript": {
+          "add": 5,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 93876,
+        "del": 21682,
+        "other_add": 31438,
+        "other_del": 7430
+      }
+    },
+    {
+      "repo": "zxzinn/zerve",
+      "private": true,
+      "fork": false,
+      "commits": 256,
+      "by_lang": {
+        "Markdown": {
+          "add": 25544,
+          "del": 332
+        },
+        "Java": {
+          "add": 830,
+          "del": 34
+        },
+        "JSON": {
+          "add": 13182,
+          "del": 337
+        },
+        "TypeScript": {
+          "add": 43242,
+          "del": 7185
+        },
+        "SQL": {
+          "add": 167,
+          "del": 0
+        },
+        "Dockerfile": {
+          "add": 71,
+          "del": 28
+        },
+        "Shell": {
+          "add": 179,
+          "del": 3
+        },
+        "YAML": {
+          "add": 1534,
+          "del": 371
+        },
+        "CSS": {
+          "add": 607,
+          "del": 312
+        },
+        "JavaScript": {
+          "add": 33,
+          "del": 5
+        },
+        "HTML": {
+          "add": 23,
+          "del": 10
+        },
+        "Protobuf": {
+          "add": 478,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 101926,
+        "del": 9244,
+        "other_add": 9140,
+        "other_del": 627
+      }
+    },
+    {
+      "repo": "zxzinn/NovelAI-Studio-FX",
+      "private": true,
+      "fork": false,
+      "commits": 252,
+      "by_lang": {
+        "XML": {
+          "add": 516,
+          "del": 202
+        },
+        "Java": {
+          "add": 20956,
+          "del": 13573
+        },
+        "CSS": {
+          "add": 2933,
+          "del": 1702
+        },
+        "Markdown": {
+          "add": 386,
+          "del": 27
+        },
+        "YAML": {
+          "add": 2320,
+          "del": 2201
+        },
+        "Python": {
+          "add": 276,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 37070,
+        "del": 18962,
+        "other_add": 9683,
+        "other_del": 1257
+      }
+    },
+    {
+      "repo": "zxzinn/pvsync",
+      "private": true,
+      "fork": false,
+      "commits": 158,
+      "by_lang": {
+        "Rust": {
+          "add": 6186,
+          "del": 1402
+        },
+        "TypeScript": {
+          "add": 13250,
+          "del": 9193
+        },
+        "TOML": {
+          "add": 86,
+          "del": 6
+        },
+        "JSON": {
+          "add": 388,
+          "del": 114
+        },
+        "YAML": {
+          "add": 142,
+          "del": 34
+        },
+        "Markdown": {
+          "add": 477,
+          "del": 337
+        },
+        "CSS": {
+          "add": 130,
+          "del": 69
+        },
+        "HTML": {
+          "add": 13,
+          "del": 0
+        },
+        "SQL": {
+          "add": 238,
+          "del": 238
+        }
+      },
+      "totals": {
+        "add": 32631,
+        "del": 11906,
+        "other_add": 11721,
+        "other_del": 513
+      }
+    },
+    {
+      "repo": "zxzinn/my-better-t-app",
+      "private": true,
+      "fork": false,
+      "commits": 10,
+      "by_lang": {
+        "YAML": {
+          "add": 130,
+          "del": 6
+        },
+        "TypeScript": {
+          "add": 2653,
+          "del": 203
+        },
+        "Dockerfile": {
+          "add": 49,
+          "del": 0
+        },
+        "JSON": {
+          "add": 679,
+          "del": 0
+        },
+        "HTML": {
+          "add": 15,
+          "del": 2
+        },
+        "Markdown": {
+          "add": 19911,
+          "del": 0
+        },
+        "CSS": {
+          "add": 132,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 5,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 38107,
+        "del": 214,
+        "other_add": 2305,
+        "other_del": 3
+      }
+    },
+    {
+      "repo": "zxzinn/cf-gdrive-mcp",
+      "private": false,
+      "fork": false,
+      "commits": 21,
+      "by_lang": {
+        "JSON": {
+          "add": 300,
+          "del": 81
+        },
+        "Markdown": {
+          "add": 550,
+          "del": 21
+        },
+        "TypeScript": {
+          "add": 10666,
+          "del": 690
+        }
+      },
+      "totals": {
+        "add": 25486,
+        "del": 9648,
+        "other_add": 13970,
+        "other_del": 8856
+      }
+    },
+    {
+      "repo": "zxzinn/echost",
+      "private": true,
+      "fork": false,
+      "commits": 148,
+      "by_lang": {
+        "TypeScript": {
+          "add": 13230,
+          "del": 4645
+        },
+        "Dockerfile": {
+          "add": 253,
+          "del": 74
+        },
+        "Shell": {
+          "add": 1333,
+          "del": 334
+        },
+        "JSON": {
+          "add": 2913,
+          "del": 235
+        },
+        "Markdown": {
+          "add": 817,
+          "del": 565
+        },
+        "YAML": {
+          "add": 739,
+          "del": 109
+        },
+        "SQL": {
+          "add": 180,
+          "del": 0
+        },
+        "XML": {
+          "add": 29,
+          "del": 1
+        },
+        "CSS": {
+          "add": 119,
+          "del": 534
+        },
+        "TOML": {
+          "add": 3,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 0,
+          "del": 148
+        },
+        "HTML": {
+          "add": 13,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 26327,
+        "del": 7671,
+        "other_add": 6698,
+        "other_del": 1026
+      }
+    },
+    {
+      "repo": "zxzinn/homelab",
+      "private": true,
+      "fork": false,
+      "commits": 146,
+      "by_lang": {
+        "YAML": {
+          "add": 2539,
+          "del": 285
+        },
+        "TypeScript": {
+          "add": 8728,
+          "del": 3853
+        },
+        "HCL": {
+          "add": 195,
+          "del": 65
+        },
+        "Markdown": {
+          "add": 772,
+          "del": 243
+        },
+        "Shell": {
+          "add": 1687,
+          "del": 779
+        },
+        "Terraform": {
+          "add": 1985,
+          "del": 1246
+        },
+        "JSON": {
+          "add": 1286,
+          "del": 245
+        },
+        "JavaScript": {
+          "add": 94,
+          "del": 47
+        },
+        "Dockerfile": {
+          "add": 23,
+          "del": 1
+        }
+      },
+      "totals": {
+        "add": 20514,
+        "del": 6790,
+        "other_add": 3205,
+        "other_del": 26
+      }
+    },
+    {
+      "repo": "zxzinn/TradingFramework",
+      "private": true,
+      "fork": false,
+      "commits": 95,
+      "by_lang": {
+        "Markdown": {
+          "add": 12165,
+          "del": 2716
+        },
+        "YAML": {
+          "add": 7,
+          "del": 3
+        },
+        "Python": {
+          "add": 7137,
+          "del": 156
+        },
+        "JSON": {
+          "add": 710,
+          "del": 15
+        },
+        "Shell": {
+          "add": 23,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 20062,
+        "del": 2890,
+        "other_add": 20,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/Mita",
+      "private": true,
+      "fork": false,
+      "commits": 16,
+      "by_lang": {
+        "JSON": {
+          "add": 225,
+          "del": 38
+        },
+        "TypeScript": {
+          "add": 2362,
+          "del": 580
+        },
+        "CSS": {
+          "add": 185,
+          "del": 1
+        },
+        "JavaScript": {
+          "add": 69,
+          "del": 3
+        },
+        "Rust": {
+          "add": 153,
+          "del": 1
+        },
+        "TOML": {
+          "add": 36,
+          "del": 2
+        },
+        "Markdown": {
+          "add": 7,
+          "del": 0
+        },
+        "HTML": {
+          "add": 14,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 17211,
+        "del": 844,
+        "other_add": 14160,
+        "other_del": 219
+      }
+    },
+    {
+      "repo": "zxzinn/opencti-mcp",
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "by_lang": {
+        "Markdown": {
+          "add": 550,
+          "del": 16
+        },
+        "TypeScript": {
+          "add": 2377,
+          "del": 152
+        },
+        "GraphQL": {
+          "add": 14537,
+          "del": 0
+        },
+        "JSON": {
+          "add": 42,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 17556,
+        "del": 168,
+        "other_add": 50,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/evhost",
+      "private": true,
+      "fork": false,
+      "commits": 27,
+      "by_lang": {
+        "JSON": {
+          "add": 320,
+          "del": 26
+        },
+        "TypeScript": {
+          "add": 3344,
+          "del": 551
+        },
+        "Shell": {
+          "add": 129,
+          "del": 0
+        },
+        "YAML": {
+          "add": 206,
+          "del": 86
+        },
+        "Markdown": {
+          "add": 284,
+          "del": 6
+        }
+      },
+      "totals": {
+        "add": 13656,
+        "del": 2628,
+        "other_add": 9373,
+        "other_del": 1959
+      }
+    },
+    {
+      "repo": "zxzinn/cadenza",
+      "private": true,
+      "fork": false,
+      "commits": 24,
+      "by_lang": {
+        "TypeScript": {
+          "add": 7151,
+          "del": 1138
+        },
+        "YAML": {
+          "add": 158,
+          "del": 4
+        },
+        "JSON": {
+          "add": 533,
+          "del": 8
+        },
+        "Markdown": {
+          "add": 327,
+          "del": 39
+        },
+        "SQL": {
+          "add": 59,
+          "del": 0
+        },
+        "CSS": {
+          "add": 315,
+          "del": 0
+        },
+        "HTML": {
+          "add": 15,
+          "del": 1
+        }
+      },
+      "totals": {
+        "add": 14503,
+        "del": 1201,
+        "other_add": 5945,
+        "other_del": 11
+      }
+    },
+    {
+      "repo": "zxzinn/nextjs-prisma-postgres",
+      "private": true,
+      "fork": false,
+      "commits": 16,
+      "by_lang": {
+        "JSON": {
+          "add": 81,
+          "del": 2
+        },
+        "TypeScript": {
+          "add": 4209,
+          "del": 1849
+        },
+        "CSS": {
+          "add": 219,
+          "del": 38
+        },
+        "SQL": {
+          "add": 70,
+          "del": 0
+        },
+        "XML": {
+          "add": 21,
+          "del": 0
+        },
+        "TOML": {
+          "add": 3,
+          "del": 0
+        },
+        "Dockerfile": {
+          "add": 39,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 36,
+          "del": 0
+        },
+        "YAML": {
+          "add": 54,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 24,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 12065,
+        "del": 2013,
+        "other_add": 7309,
+        "other_del": 124
+      }
+    },
+    {
+      "repo": "zxzinn/playma-test",
+      "private": true,
+      "fork": false,
+      "commits": 56,
+      "by_lang": {
+        "Markdown": {
+          "add": 601,
+          "del": 382
+        },
+        "Python": {
+          "add": 7473,
+          "del": 3913
+        },
+        "TOML": {
+          "add": 60,
+          "del": 4
+        },
+        "YAML": {
+          "add": 527,
+          "del": 10
+        }
+      },
+      "totals": {
+        "add": 8890,
+        "del": 4351,
+        "other_add": 229,
+        "other_del": 42
+      }
+    },
+    {
+      "repo": "zxzinn/ai-image-manager",
+      "private": true,
+      "fork": false,
+      "commits": 4,
+      "by_lang": {
+        "JavaScript": {
+          "add": 215,
+          "del": 3
+        },
+        "TypeScript": {
+          "add": 2412,
+          "del": 492
+        },
+        "Markdown": {
+          "add": 50,
+          "del": 0
+        },
+        "HTML": {
+          "add": 13,
+          "del": 0
+        },
+        "JSON": {
+          "add": 134,
+          "del": 0
+        },
+        "CSS": {
+          "add": 110,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 10822,
+        "del": 497,
+        "other_add": 7888,
+        "other_del": 2
+      }
+    },
+    {
+      "repo": "zxzinn/aimage-saas",
+      "private": true,
+      "fork": false,
+      "commits": 2,
+      "by_lang": {
+        "JSON": {
+          "add": 108,
+          "del": 1
+        },
+        "TypeScript": {
+          "add": 719,
+          "del": 21
+        },
+        "XML": {
+          "add": 20,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 36,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 24,
+          "del": 0
+        },
+        "CSS": {
+          "add": 21,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 11211,
+        "del": 47,
+        "other_add": 10283,
+        "other_del": 25
+      }
+    },
+    {
+      "repo": "zxzinn/resume",
+      "private": true,
+      "fork": false,
+      "commits": 12,
+      "by_lang": {
+        "TypeScript": {
+          "add": 2491,
+          "del": 750
+        },
+        "CSS": {
+          "add": 192,
+          "del": 0
+        },
+        "JSON": {
+          "add": 74,
+          "del": 5
+        },
+        "Markdown": {
+          "add": 36,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 24,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 9981,
+        "del": 874,
+        "other_add": 7164,
+        "other_del": 119
+      }
+    },
+    {
+      "repo": "zxzinn/nextjs-chat",
+      "private": true,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Markdown": {
+          "add": 71,
+          "del": 0
+        },
+        "TypeScript": {
+          "add": 6001,
+          "del": 0
+        },
+        "CSS": {
+          "add": 76,
+          "del": 0
+        },
+        "JSON": {
+          "add": 113,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 53,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 10657,
+        "del": 0,
+        "other_add": 4343,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/career",
+      "private": true,
+      "fork": false,
+      "commits": 22,
+      "by_lang": {
+        "Markdown": {
+          "add": 8021,
+          "del": 153
+        },
+        "HTML": {
+          "add": 1417,
+          "del": 99
+        },
+        "YAML": {
+          "add": 493,
+          "del": 4
+        },
+        "Shell": {
+          "add": 310,
+          "del": 21
+        }
+      },
+      "totals": {
+        "add": 10280,
+        "del": 278,
+        "other_add": 39,
+        "other_del": 1
+      }
+    },
+    {
+      "repo": "zxzinn/mineaudit",
+      "private": true,
+      "fork": false,
+      "commits": 7,
+      "by_lang": {
+        "Dockerfile": {
+          "add": 38,
+          "del": 2
+        },
+        "SQL": {
+          "add": 112,
+          "del": 15
+        },
+        "JSON": {
+          "add": 991,
+          "del": 115
+        },
+        "YAML": {
+          "add": 52,
+          "del": 48
+        },
+        "TypeScript": {
+          "add": 1411,
+          "del": 365
+        },
+        "Java": {
+          "add": 901,
+          "del": 36
+        },
+        "Shell": {
+          "add": 111,
+          "del": 21
+        },
+        "Markdown": {
+          "add": 148,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 25,
+          "del": 0
+        },
+        "CSS": {
+          "add": 26,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 9547,
+        "del": 627,
+        "other_add": 5732,
+        "other_del": 25
+      }
+    },
+    {
+      "repo": "zxzinn/NovelAIDesktop",
+      "private": true,
+      "fork": false,
+      "commits": 38,
+      "by_lang": {
+        "XML": {
+          "add": 397,
+          "del": 1
+        },
+        "Java": {
+          "add": 6403,
+          "del": 2157
+        },
+        "JSON": {
+          "add": 91,
+          "del": 1
+        },
+        "YAML": {
+          "add": 352,
+          "del": 131
+        },
+        "Markdown": {
+          "add": 293,
+          "del": 15
+        }
+      },
+      "totals": {
+        "add": 7557,
+        "del": 2305,
+        "other_add": 21,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/agent-practices",
+      "private": true,
+      "fork": false,
+      "commits": 23,
+      "by_lang": {
+        "Python": {
+          "add": 1946,
+          "del": 142
+        },
+        "TOML": {
+          "add": 219,
+          "del": 68
+        },
+        "YAML": {
+          "add": 40,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 0,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 8825,
+        "del": 431,
+        "other_add": 6620,
+        "other_del": 221
+      }
+    },
+    {
+      "repo": "zxzinn/paper-rag",
+      "private": true,
+      "fork": false,
+      "commits": 11,
+      "by_lang": {
+        "Svelte": {
+          "add": 600,
+          "del": 64
+        },
+        "JSON": {
+          "add": 49,
+          "del": 0
+        },
+        "Python": {
+          "add": 654,
+          "del": 102
+        },
+        "TOML": {
+          "add": 28,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 38,
+          "del": 0
+        },
+        "TypeScript": {
+          "add": 20,
+          "del": 0
+        },
+        "HTML": {
+          "add": 11,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 18,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 9026,
+        "del": 166,
+        "other_add": 7608,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/dev-zxzinn",
+      "private": true,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "JSON": {
+          "add": 80,
+          "del": 0
+        },
+        "Dockerfile": {
+          "add": 8,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 36,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 12,
+          "del": 0
+        },
+        "TypeScript": {
+          "add": 2830,
+          "del": 0
+        },
+        "CSS": {
+          "add": 33,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 8604,
+        "del": 0,
+        "other_add": 5605,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/github-stats",
+      "private": false,
+      "fork": false,
+      "commits": 2,
+      "by_lang": {
+        "YAML": {
+          "add": 129,
+          "del": 83
+        },
+        "Markdown": {
+          "add": 295,
+          "del": 275
+        },
+        "Zig": {
+          "add": 1851,
+          "del": 1851
+        },
+        "Python": {
+          "add": 398,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 3765,
+        "del": 3159,
+        "other_add": 1092,
+        "other_del": 950
+      }
+    },
+    {
+      "repo": "zxzinn/django-makemessages-rs",
+      "private": false,
+      "fork": false,
+      "commits": 34,
+      "by_lang": {
+        "Markdown": {
+          "add": 226,
+          "del": 15
+        },
+        "Rust": {
+          "add": 4378,
+          "del": 368
+        },
+        "TOML": {
+          "add": 114,
+          "del": 39
+        },
+        "YAML": {
+          "add": 283,
+          "del": 127
+        },
+        "Python": {
+          "add": 260,
+          "del": 45
+        },
+        "Shell": {
+          "add": 251,
+          "del": 10
+        },
+        "HTML": {
+          "add": 34,
+          "del": 0
+        },
+        "JavaScript": {
+          "add": 4,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 6046,
+        "del": 639,
+        "other_add": 496,
+        "other_del": 35
+      }
+    },
+    {
+      "repo": "zxzinn/MimesisMorePlayersMod",
+      "private": true,
+      "fork": false,
+      "commits": 35,
+      "by_lang": {
+        "Markdown": {
+          "add": 1164,
+          "del": 851
+        },
+        "C#": {
+          "add": 1932,
+          "del": 439
+        },
+        "Shell": {
+          "add": 66,
+          "del": 0
+        },
+        "YAML": {
+          "add": 192,
+          "del": 12
+        },
+        "JSON": {
+          "add": 9,
+          "del": 9
+        }
+      },
+      "totals": {
+        "add": 4467,
+        "del": 1400,
+        "other_add": 1104,
+        "other_del": 89
+      }
+    },
+    {
+      "repo": "zxzinn/create-z7-app",
+      "private": true,
+      "fork": false,
+      "commits": 18,
+      "by_lang": {
+        "JSON": {
+          "add": 365,
+          "del": 120
+        },
+        "YAML": {
+          "add": 268,
+          "del": 120
+        },
+        "TypeScript": {
+          "add": 1855,
+          "del": 582
+        },
+        "JavaScript": {
+          "add": 22,
+          "del": 0
+        },
+        "Shell": {
+          "add": 197,
+          "del": 58
+        },
+        "Dockerfile": {
+          "add": 175,
+          "del": 89
+        },
+        "HTML": {
+          "add": 12,
+          "del": 0
+        },
+        "CSS": {
+          "add": 1,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 3900,
+        "del": 985,
+        "other_add": 1005,
+        "other_del": 16
+      }
+    },
+    {
+      "repo": "zxzinn/oh-my-jobseeker",
+      "private": true,
+      "fork": false,
+      "commits": 8,
+      "by_lang": {
+        "Python": {
+          "add": 654,
+          "del": 36
+        },
+        "JSON": {
+          "add": 15,
+          "del": 4
+        },
+        "XML": {
+          "add": 73,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 12,
+          "del": 0
+        },
+        "TOML": {
+          "add": 43,
+          "del": 0
+        },
+        "YAML": {
+          "add": 34,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 4726,
+        "del": 42,
+        "other_add": 3895,
+        "other_del": 2
+      }
+    },
+    {
+      "repo": "zxzinn/vue-waterfall",
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "by_lang": {
+        "JSON": {
+          "add": 80,
+          "del": 3
+        },
+        "Vue": {
+          "add": 239,
+          "del": 16
+        },
+        "TypeScript": {
+          "add": 563,
+          "del": 10
+        },
+        "Markdown": {
+          "add": 259,
+          "del": 8
+        },
+        "YAML": {
+          "add": 83,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 3643,
+        "del": 1004,
+        "other_add": 2419,
+        "other_del": 967
+      }
+    },
+    {
+      "repo": "zxzinn/elk",
+      "private": true,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Markdown": {
+          "add": 105,
+          "del": 0
+        },
+        "Python": {
+          "add": 74,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 4143,
+        "del": 0,
+        "other_add": 3964,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/ai-hono-bun",
+      "private": true,
+      "fork": false,
+      "commits": 33,
+      "by_lang": {
+        "TypeScript": {
+          "add": 1523,
+          "del": 211
+        },
+        "JSON": {
+          "add": 58,
+          "del": 9
+        },
+        "Markdown": {
+          "add": 482,
+          "del": 0
+        },
+        "XML": {
+          "add": 44,
+          "del": 44
+        },
+        "Shell": {
+          "add": 24,
+          "del": 0
+        },
+        "YAML": {
+          "add": 75,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 3650,
+        "del": 325,
+        "other_add": 1444,
+        "other_del": 61
+      }
+    },
+    {
+      "repo": "zxzinn/OpenLumix",
+      "private": true,
+      "fork": false,
+      "commits": 7,
+      "by_lang": {
+        "TypeScript": {
+          "add": 1317,
+          "del": 386
+        },
+        "JSON": {
+          "add": 673,
+          "del": 3
+        },
+        "Markdown": {
+          "add": 261,
+          "del": 112
+        },
+        "Dockerfile": {
+          "add": 42,
+          "del": 0
+        },
+        "Shell": {
+          "add": 16,
+          "del": 0
+        },
+        "TOML": {
+          "add": 14,
+          "del": 0
+        },
+        "HTML": {
+          "add": 13,
+          "del": 0
+        },
+        "CSS": {
+          "add": 205,
+          "del": 0
+        },
+        "YAML": {
+          "add": 66,
+          "del": 0
+        },
+        "SQL": {
+          "add": 97,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 3449,
+        "del": 507,
+        "other_add": 745,
+        "other_del": 6
+      }
+    },
+    {
+      "repo": "zxzinn/neon-selfhost",
+      "private": false,
+      "fork": false,
+      "commits": 6,
+      "by_lang": {
+        "Go": {
+          "add": 2272,
+          "del": 14
+        },
+        "YAML": {
+          "add": 614,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 177,
+          "del": 0
+        },
+        "Dockerfile": {
+          "add": 23,
+          "del": 0
+        },
+        "JSON": {
+          "add": 161,
+          "del": 0
+        },
+        "Shell": {
+          "add": 73,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 3809,
+        "del": 14,
+        "other_add": 489,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/pixivision-discord-bot",
+      "private": false,
+      "fork": false,
+      "commits": 37,
+      "by_lang": {
+        "TypeScript": {
+          "add": 1840,
+          "del": 507
+        },
+        "SQL": {
+          "add": 80,
+          "del": 14
+        },
+        "JSON": {
+          "add": 118,
+          "del": 5
+        },
+        "Dockerfile": {
+          "add": 28,
+          "del": 1
+        },
+        "Markdown": {
+          "add": 363,
+          "del": 0
+        },
+        "Shell": {
+          "add": 102,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 2869,
+        "del": 548,
+        "other_add": 338,
+        "other_del": 21
+      }
+    },
+    {
+      "repo": "zxzinn/llama-index-agent-workflow-memleak-repro",
+      "private": false,
+      "fork": false,
+      "commits": 5,
+      "by_lang": {
+        "Markdown": {
+          "add": 89,
+          "del": 51
+        },
+        "Python": {
+          "add": 303,
+          "del": 111
+        },
+        "TOML": {
+          "add": 13,
+          "del": 3
+        }
+      },
+      "totals": {
+        "add": 2318,
+        "del": 167,
+        "other_add": 1913,
+        "other_del": 2
+      }
+    },
+    {
+      "repo": "zxzinn/ai_image_manager",
+      "private": true,
+      "fork": false,
+      "commits": 3,
+      "by_lang": {
+        "Dart": {
+          "add": 1372,
+          "del": 201
+        },
+        "YAML": {
+          "add": 123,
+          "del": 0
+        },
+        "JSON": {
+          "add": 3,
+          "del": 0
+        },
+        "Markdown": {
+          "add": 16,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 2050,
+        "del": 214,
+        "other_add": 536,
+        "other_del": 13
+      }
+    },
+    {
+      "repo": "zxzinn/llama_index",
+      "private": false,
+      "fork": true,
+      "commits": 11,
+      "by_lang": {
+        "Python": {
+          "add": 1456,
+          "del": 101
+        },
+        "TOML": {
+          "add": 11,
+          "del": 9
+        }
+      },
+      "totals": {
+        "add": 1481,
+        "del": 120,
+        "other_add": 14,
+        "other_del": 10
+      }
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "private": false,
+      "fork": false,
+      "commits": 11,
+      "by_lang": {
+        "Python": {
+          "add": 1456,
+          "del": 101
+        },
+        "TOML": {
+          "add": 11,
+          "del": 9
+        }
+      },
+      "totals": {
+        "add": 1481,
+        "del": 120,
+        "other_add": 14,
+        "other_del": 10
+      }
+    },
+    {
+      "repo": "zxzinn/Wazuh-Manager-Postman",
+      "private": false,
+      "fork": false,
+      "commits": 5,
+      "by_lang": {
+        "Markdown": {
+          "add": 66,
+          "del": 2
+        },
+        "JSON": {
+          "add": 60,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 1410,
+        "del": 2,
+        "other_add": 1284,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/temp",
+      "private": true,
+      "fork": false,
+      "commits": 3,
+      "by_lang": {
+        "Jupyter Notebook": {
+          "add": 1012,
+          "del": 2
+        }
+      },
+      "totals": {
+        "add": 1012,
+        "del": 2,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/OpenCTI-Docker-QuickStart",
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Markdown": {
+          "add": 178,
+          "del": 0
+        },
+        "YAML": {
+          "add": 557,
+          "del": 0
+        },
+        "Shell": {
+          "add": 72,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 944,
+        "del": 0,
+        "other_add": 137,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/python-socketio-redis-leak-repro",
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "by_lang": {
+        "Markdown": {
+          "add": 191,
+          "del": 157
+        },
+        "Python": {
+          "add": 268,
+          "del": 144
+        },
+        "Shell": {
+          "add": 121,
+          "del": 28
+        },
+        "TOML": {
+          "add": 14,
+          "del": 2
+        }
+      },
+      "totals": {
+        "add": 598,
+        "del": 331,
+        "other_add": 4,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/django-channels-jwt-stateless",
+      "private": false,
+      "fork": false,
+      "commits": 4,
+      "by_lang": {
+        "Markdown": {
+          "add": 115,
+          "del": 2
+        },
+        "TOML": {
+          "add": 65,
+          "del": 2
+        },
+        "Python": {
+          "add": 496,
+          "del": 6
+        },
+        "YAML": {
+          "add": 57,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 766,
+        "del": 10,
+        "other_add": 33,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/claude-code-review-workflow-creator-skill",
+      "private": false,
+      "fork": false,
+      "commits": 3,
+      "by_lang": {
+        "JSON": {
+          "add": 22,
+          "del": 1
+        },
+        "Markdown": {
+          "add": 197,
+          "del": 26
+        },
+        "YAML": {
+          "add": 106,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 325,
+        "del": 27,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/cloudflare-code-mode",
+      "private": true,
+      "fork": false,
+      "commits": 10,
+      "by_lang": {
+        "XML": {
+          "add": 18,
+          "del": 18
+        },
+        "TypeScript": {
+          "add": 16,
+          "del": 0
+        },
+        "JSON": {
+          "add": 178,
+          "del": 7
+        },
+        "YAML": {
+          "add": 5,
+          "del": 2
+        }
+      },
+      "totals": {
+        "add": 281,
+        "del": 48,
+        "other_add": 64,
+        "other_del": 21
+      }
+    },
+    {
+      "repo": "zxzinn/djangorestframework-camel-case",
+      "private": false,
+      "fork": true,
+      "commits": 2,
+      "by_lang": {
+        "YAML": {
+          "add": 64,
+          "del": 2
+        },
+        "TOML": {
+          "add": 49,
+          "del": 6
+        },
+        "Python": {
+          "add": 61,
+          "del": 56
+        }
+      },
+      "totals": {
+        "add": 226,
+        "del": 98,
+        "other_add": 52,
+        "other_del": 34
+      }
+    },
+    {
+      "repo": "zxzinn/ElasticSearch-QuickStart",
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Markdown": {
+          "add": 156,
+          "del": 0
+        },
+        "YAML": {
+          "add": 121,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 302,
+        "del": 0,
+        "other_add": 25,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/zxzinn",
+      "private": false,
+      "fork": false,
+      "commits": 10,
+      "by_lang": {
+        "Markdown": {
+          "add": 111,
+          "del": 71
+        }
+      },
+      "totals": {
+        "add": 111,
+        "del": 71,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/servers",
+      "private": false,
+      "fork": true,
+      "commits": 5,
+      "by_lang": {
+        "Markdown": {
+          "add": 97,
+          "del": 63
+        },
+        "TypeScript": {
+          "add": 1,
+          "del": 1
+        },
+        "Python": {
+          "add": 15,
+          "del": 3
+        }
+      },
+      "totals": {
+        "add": 113,
+        "del": 67,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "neoforged/NeoForge",
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Java": {
+          "add": 119,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 132,
+        "del": 17,
+        "other_add": 13,
+        "other_del": 17
+      }
+    },
+    {
+      "repo": "open-telemetry/opentelemetry-js",
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Markdown": {
+          "add": 125,
+          "del": 2
+        }
+      },
+      "totals": {
+        "add": 125,
+        "del": 2,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/site-rag",
+      "private": false,
+      "fork": true,
+      "commits": 3,
+      "by_lang": {
+        "YAML": {
+          "add": 84,
+          "del": 42
+        }
+      },
+      "totals": {
+        "add": 84,
+        "del": 42,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/MimesisMorePlayersMod.",
+      "private": false,
+      "fork": true,
+      "commits": 2,
+      "by_lang": {
+        "YAML": {
+          "add": 101,
+          "del": 6
+        }
+      },
+      "totals": {
+        "add": 101,
+        "del": 6,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "NeoMimicry/MorePlayers",
+      "private": false,
+      "fork": false,
+      "commits": 2,
+      "by_lang": {
+        "YAML": {
+          "add": 101,
+          "del": 6
+        }
+      },
+      "totals": {
+        "add": 101,
+        "del": 6,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/ai-elements",
+      "private": false,
+      "fork": true,
+      "commits": 1,
+      "by_lang": {
+        "TypeScript": {
+          "add": 77,
+          "del": 2
+        }
+      },
+      "totals": {
+        "add": 77,
+        "del": 2,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "vercel/ai-elements",
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "TypeScript": {
+          "add": 77,
+          "del": 2
+        }
+      },
+      "totals": {
+        "add": 77,
+        "del": 2,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/MimicAPI",
+      "private": false,
+      "fork": true,
+      "commits": 1,
+      "by_lang": {
+        "YAML": {
+          "add": 69,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 69,
+        "del": 0,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "NeoMimicry/MimicAPI",
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "YAML": {
+          "add": 69,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 69,
+        "del": 0,
+        "other_add": 0,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "zxzinn/mygo",
+      "private": true,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Go": {
+          "add": 21,
+          "del": 0
+        }
+      },
+      "totals": {
+        "add": 32,
+        "del": 0,
+        "other_add": 11,
+        "other_del": 0
+      }
+    },
+    {
+      "repo": "vuepont/ai-elements-vue",
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "by_lang": {
+        "Vue": {
+          "add": 5,
+          "del": 1
+        }
+      },
+      "totals": {
+        "add": 5,
+        "del": 1,
+        "other_add": 0,
+        "other_del": 0
+      }
+    }
+  ]
+}

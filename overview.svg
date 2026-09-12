@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="240" class="card">
+
+<style>
+.card { font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+.bg { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; rx: 6; ry: 6; }
+.title { font-size: 16px; font-weight: 600; fill: #1f2328; }
+.subtitle { font-size: 11px; fill: #59636e; }
+.label { font-size: 13px; fill: #1f2328; }
+.value { font-size: 13px; fill: #1f2328; font-weight: 600; text-anchor: end; }
+.bar-bg { fill: #eaeef2; }
+@media (prefers-color-scheme: dark) {
+  .bg { fill: #0d1117; stroke: #30363d; }
+  .title, .label, .value { fill: #e6edf3; }
+  .subtitle { fill: #9198a1; }
+  .bar-bg { fill: #21262d; }
+}
+</style>
+
+<rect class="bg" x="1" y="1" width="448" height="238"/>
+<text class="title" x="20" y="32">GitHub stats — zxzinn</text>
+<text class="subtitle" x="20" y="50">Lines authored across owned + contributed repos (incl. private)</text>
+<text class="label" x="20" y="85">Lines added</text>
+<text class="value" x="430" y="85">987,843</text>
+<text class="label" x="20" y="115">Lines deleted</text>
+<text class="value" x="430" y="115">225,240</text>
+<text class="label" x="20" y="145">Net lines</text>
+<text class="value" x="430" y="145">762,603</text>
+<text class="label" x="20" y="175">Commits</text>
+<text class="value" x="430" y="175">3,893</text>
+<text class="label" x="20" y="205">Repos contributed to</text>
+<text class="value" x="430" y="205">66</text>
+<text class="subtitle" x="20" y="240">Excludes: Jupyter Notebook, lockfiles, vendored paths</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="314" class="card">
+
+<style>
+.card { font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+.bg { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; rx: 6; ry: 6; }
+.title { font-size: 16px; font-weight: 600; fill: #1f2328; }
+.subtitle { font-size: 11px; fill: #59636e; }
+.label { font-size: 13px; fill: #1f2328; }
+.value { font-size: 13px; fill: #1f2328; font-weight: 600; text-anchor: end; }
+.bar-bg { fill: #eaeef2; }
+@media (prefers-color-scheme: dark) {
+  .bg { fill: #0d1117; stroke: #30363d; }
+  .title, .label, .value { fill: #e6edf3; }
+  .subtitle { fill: #9198a1; }
+  .bar-bg { fill: #21262d; }
+}
+</style>
+
+<rect class="bg" x="1" y="1" width="448" height="312"/>
+<text class="title" x="20" y="32">Most used languages</text>
+<text class="subtitle" x="20" y="50">By lines authored (excludes config / docs / lockfiles)</text>
+<text class="label" x="20" y="87">TypeScript</text>
+<text class="value" x="430" y="87">63.2%</text>
+<rect class="bar-bg" x="20" y="91" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="91" width="258.9" height="6" rx="3" ry="3" fill="#3178c6"/>
+<text class="label" x="20" y="115">Python</text>
+<text class="value" x="430" y="115">13.3%</text>
+<rect class="bar-bg" x="20" y="119" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="119" width="54.5" height="6" rx="3" ry="3" fill="#3572A5"/>
+<text class="label" x="20" y="143">Vue</text>
+<text class="value" x="430" y="143">8.6%</text>
+<rect class="bar-bg" x="20" y="147" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="147" width="35.3" height="6" rx="3" ry="3" fill="#41b883"/>
+<text class="label" x="20" y="171">Java</text>
+<text class="value" x="430" y="171">5.9%</text>
+<rect class="bar-bg" x="20" y="175" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="175" width="24.1" height="6" rx="3" ry="3" fill="#b07219"/>
+<text class="label" x="20" y="199">JavaScript</text>
+<text class="value" x="430" y="199">4.1%</text>
+<rect class="bar-bg" x="20" y="203" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="203" width="16.6" height="6" rx="3" ry="3" fill="#f1e05a"/>
+<text class="label" x="20" y="227">GraphQL</text>
+<text class="value" x="430" y="227">1.9%</text>
+<rect class="bar-bg" x="20" y="231" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="231" width="7.8" height="6" rx="3" ry="3" fill="#e10098"/>
+<text class="label" x="20" y="255">Rust</text>
+<text class="value" x="430" y="255">1.6%</text>
+<rect class="bar-bg" x="20" y="259" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="259" width="6.7" height="6" rx="3" ry="3" fill="#dea584"/>
+<text class="label" x="20" y="283">CSS</text>
+<text class="value" x="430" y="283">1.5%</text>
+<rect class="bar-bg" x="20" y="287" width="410" height="6" rx="3" ry="3"/>
+<rect x="20" y="287" width="6.2" height="6" rx="3" ry="3" fill="#563d7c"/>
+</svg>
